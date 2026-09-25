@@ -1,7 +1,7 @@
 KAMAR-CORE Enterprise
 Your data, your machine, your proofs. / Vos données, votre machine, vos preuves.
 🌐 English Version
-An encrypted vault (AES-256-GCM) and tamper-proof ledger, 100% offline. No cloud subscriptions, no third-party servers, and zero blind trust — just verifiable cryptography you can audit yourself.
+Enterprise-grade security, 100% offline. Inspired by architectural concepts traditionally reserved for critical infrastructure and defense, KAMAR-CORE Enterprise combines an encrypted vault (AES-256-GCM) and a tamper-proof chained ledger into a sovereign desktop suite. No cloud subscriptions, no third-party servers, and zero blind trust — just verifiable cryptography you can audit yourself.
 
 🚀 Download & Get Started
 Head over to the Releases section of this repository to download the standalone executable:
@@ -39,7 +39,7 @@ Email: djebassimounir@gmail.com
 Telegram: @KamarMatrixBot
 
 🇫🇷 Version Française
-Un coffre-fort chiffré (AES-256-GCM) et un registre infalsifiable, 100% hors-ligne. Pas d'abonnement cloud, pas de serveur tiers, pas de promesse à prendre pour argent comptant — juste de la cryptographie que vous pouvez vérifier vous-même.
+Sécurité de niveau industriel, 100% hors-ligne. Inspiré de concepts architecturaux traditionnellement réservés aux infrastructures critiques et à la défense, KAMAR-CORE Enterprise associe un coffre-fort chiffré (AES-256-GCM) et un registre d'intégrité chaîné au sein d'une suite logicielle souveraine. Pas d'abonnement cloud, pas de serveur tiers, pas de promesse à prendre pour argent comptant — juste de la cryptographie que vous pouvez vérifier vous-même.
 
 🚀 Téléchargement et Démarrage
 Rendez-vous dans la section Releases de ce dépôt pour télécharger l'exécutable autonome :
