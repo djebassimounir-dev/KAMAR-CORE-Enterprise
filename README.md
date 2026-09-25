@@ -70,8 +70,8 @@ On ne peut pas modifier vos données enregistrées sans que le registre ne déte
 📞 Support & Acquisition de Licence
 Pour toute question technique, support ou pour l'acquisition d'une licence permanente après votre période d'essai :
 
-Email : djebassimounir@gmail.com
+Email: djebassimounir@gmail.com
 
-Telegram : @KamarMatrixBot
+Telegram: @KamarMatrixBot
 
 © 2026 Mounir Djebassi. All rights reserved. / Tous droits réservés.
