@@ -1,5 +1,6 @@
 KAMAR-CORE Enterprise
 Your data, your machine, your proofs. / Vos données, votre machine, vos preuves.
+
 🌐 English Version
 Enterprise-grade security, 100% offline. Inspired by architectural concepts traditionally reserved for critical infrastructure and defense, KAMAR-CORE Enterprise combines an encrypted vault (AES-256-GCM) and a tamper-proof chained ledger into a sovereign desktop suite. No cloud subscriptions, no third-party servers, and zero blind trust — just verifiable cryptography you can audit yourself.
 
